@@ -4,7 +4,7 @@
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning Back End Web Development
 - 💞️ I’m looking to collaborate on Microsoft
-- 📫 How to contact me via moresaunity@outlook.com and +98 9015151501
+- 📫 How to contact me via moresaunity@gmail.com / info@moresa-web.ir  and +98 9015151501
 - 🕸️ my web site: https://moresa-web.ir
 
 <!---
